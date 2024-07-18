@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: tan;
+}
+
+.navbar-nav {
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
